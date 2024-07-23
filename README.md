@@ -26,3 +26,7 @@ Image Generation is a web application that uses artificial intelligence to gener
 - Mongoose
 - Nodemon
 - OpenAI
+
+## License
+
+This project is licensed under the MIT License.
